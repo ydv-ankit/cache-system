@@ -1,6 +1,6 @@
-## Redis in Go
+## Cache System in Go
 
-supports basic commands
+Supports basic commands
 
 - set
 - get
